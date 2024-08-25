@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/Panic_link/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Panic_link/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Panic_link/build" />
+      <excludeFolder url="file://$MODULE_DIR$/img_crop/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/img_crop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/img_crop/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
